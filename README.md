@@ -1,7 +1,7 @@
 # How to use ConfigParser in Python
 
 With this Python module, you can load a separate file with `.ini` extension.
-A document repository can also be found in my profile article at [Medium](https://guimatheus92.medium.com/obtain-power-bi-users-and-licenses-from-azure-through-powershell-7f78bb4c4e21 "Medium").
+A document repository can also be found in my profile article at [Medium](https://guimatheus92.medium.com/how-to-use-configparser-in-python-with-ini-file-3c2739a43d80 "Medium").
 
 ------------
 
